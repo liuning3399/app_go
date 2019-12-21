@@ -4,10 +4,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/it234/goapp/pkg/jwt"
-	"github.com/it234/goapp/internal/app/manageweb/controllers/common"
-	"github.com/it234/goapp/pkg/cache"
-	"github.com/it234/goapp/pkg/convert"
+	"github.com/liuning3399/app_go/pkg/jwt"
+	"github.com/liuning3399/app_go/internal/app/manageweb/controllers/common"
+	"github.com/liuning3399/app_go/pkg/cache"
+	"github.com/liuning3399/app_go/pkg/convert"
 
 	"github.com/gin-gonic/gin"
 )

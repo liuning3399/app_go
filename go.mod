@@ -1,11 +1,11 @@
-module github.com/it234/goapp
+module github.com/liuning3399/app_go
 
 go 1.12
 
 replace (
 	cloud.google.com/go => github.com/GoogleCloudPlatform/google-cloud-go v0.38.0
-	github.com/it234/goapp/internal => ./internal
-	github.com/it234/goapp/pkg => ./pkg
+	github.com/liuning3399/app_go/internal => ./internal
+	github.com/liuning3399/app_go/pkg => ./pkg
 	golang.org/x/crypto => github.com/golang/crypto v0.0.0-20190506204251-e1dfcc566284
 	golang.org/x/exp => github.com/golang/exp v0.0.0-20190429183610-475c5042d3f1
 	golang.org/x/image => github.com/golang/image v0.0.0-20190501045829-6d32002ffd75

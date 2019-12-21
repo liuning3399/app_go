@@ -4,7 +4,7 @@ import (
 	//"html/template"
 	"net/http"
 
-	"github.com/it234/goapp/internal/app/manageweb/middleware"
+	"github.com/liuning3399/app_go/internal/app/manageweb/middleware"
 
 	"github.com/gin-gonic/gin"
 )

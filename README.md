@@ -19,7 +19,7 @@
 ### 获取代码
 
 ```
-go get -v github.com/it234/goapp
+go get -v github.com/liuning3399/app_go
 ```
 
 ### 运行

@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/it234/goapp/internal/pkg/config"
+	"github.com/liuning3399/app_go/internal/pkg/config"
 
 	"github.com/spf13/viper"
 )
