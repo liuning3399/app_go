@@ -18,7 +18,7 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 )
-
+ 
 // 运行
 func Run(configPath string) {
 	if configPath==""{
