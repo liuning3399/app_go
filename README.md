@@ -96,7 +96,7 @@ go get -v github.com/liuning3399/app_go
 
 ## 与作者对话
 
-> 作者微信号：it23456789，微信二维码：
+> 作者微信号：forest14607，微信二维码：
 
 <img src="./wechat.jpeg" width="256" height="256" />
 
