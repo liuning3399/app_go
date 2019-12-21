@@ -4,7 +4,6 @@
  基于 Gin + GORM + Casbin + vue-element-admin 实现的权限管理系统 <br/>
  基于Casbin 实现RBAC权限管理 <br/>
  前端实现： vue-element-admin <br/>
- 在线体验：http://35.241.100.145:5315 <br/>
 </div>
 <br/>
 
@@ -24,7 +23,7 @@ go get -v github.com/liuning3399/app_go
 
 ### 运行
 
-- 可以直接下载打包好的桌面客户端体验，下载地址: https://pan.baidu.com/s/1wDsHH-KMQHV5tMRUv50Q3w 提取码: 9u2d 
+- 可以直接下载打包好的桌面客户端体验，下载地址: https://pan.baidu.com/s/19o4Ibl2LKKhcO9V_8O7SmA 提取码: kog4 
 - 运行服务端：cd cmd/manageweb，go run main.go，运行成功后打开 127.0.0.1:8080，如果是在windows下操作，需要提前安装并配置好mingw（sqlite的操作库用到），安装方式请自行百度/谷歌。
 - 调试/运行web：cd website/manageweb，安装：npm install，运行：npm run dev，打包：npm run build:prod
 - 配置文件在(`cmd/manageweb/config.yaml`)中，用户默认为：admin/123456
