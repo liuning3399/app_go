@@ -91,7 +91,7 @@ go get -v github.com/liuning3399/app_go
 
 ## MIT License
 
-    Copyright (c) 2019 it234
+    Copyright (c) 2019 Luke
 
 ## 与作者对话
 
