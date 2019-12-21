@@ -79,7 +79,7 @@ go get -v github.com/liuning3399/app_go
 
 ## 相关文章
 
-- [如何使用goapp写你的后台管理系统] - [https://www.cnblogs.com/hotion/p/11665837.html/](https://www.cnblogs.com/hotion/p/11665837.html/)
+- [如何使用goapp写你的后台管理系统] - [https://blog.csdn.net/qq_35396905/article/details/103642821/](https://blog.csdn.net/qq_35396905/article/details/103642821/)
 
 ## 感谢以下框架的开源支持
 

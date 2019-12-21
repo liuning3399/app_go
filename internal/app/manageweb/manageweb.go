@@ -1,4 +1,4 @@
-package manageweb 
+package manageweb
 
 import (
 	"net/http"
