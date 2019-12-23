@@ -25,6 +25,6 @@ replace (
 )
 
 require (
-	github.com/liuning3399/app_go/internal v0.0.0-00010101000000-000000000000 // indirect
+	github.com/liuning3399/app_go/internal v0.0.0-00010101000000-000000000000
 	github.com/liuning3399/app_go/pkg v0.0.0-00010101000000-000000000000 // indirect
 )
