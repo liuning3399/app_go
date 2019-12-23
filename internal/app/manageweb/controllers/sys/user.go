@@ -266,7 +266,7 @@ func (User) Info(c *gin.Context) {
 	if len(menus) == 0 && userID == common.SUPER_ADMIN_ID {
 		menus = getSuperAdminMenu()
 	}
-	resData := UserData{Menus: menus, Name: "小王"}
+	resData := UserData{Menus: menus, Name: "luke"}
 	resData.Avatar = "http://127.0.0.1:8080/resource/img/head_go.jpg"
 	common.ResSuccess(c, &resData)
 }
